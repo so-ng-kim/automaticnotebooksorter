@@ -1,2 +1,2 @@
 # automaticnotebooksorter
-Automatically moves Jupyter notebooks downloaded into a separate notebooks folder
+Automatically moves downloaded Jupyter notebooks into a separate notebooks folder
